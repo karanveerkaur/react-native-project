@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704337046499",
+    "project_id": "todone-7776b",
+    "storage_bucket": "todone-7776b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704337046499:android:e9443376e429f1ed99ced6",
+        "android_client_info": {
+          "package_name": "com.todone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWfrWHKKdQcRfsnopLH75XQJVZ-_6g5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
